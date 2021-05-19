@@ -19,7 +19,7 @@
       <a href="fram.html" class="btn">View Data </a>
       <a href="lock.html" class="btn">Data lock </a>
     </div>
-    
+    //simplepage
     
       </header>
     </body>
