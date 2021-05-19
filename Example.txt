@@ -1,0 +1,26 @@
+<html>
+    <head>
+    <tittle></tittle>
+    <link rel="stylesheet" type="text/css"href="style.css">
+    </head>
+    <body>
+    
+     <header>
+<div class="main">
+<ul>
+  <li><a href="#">HOME</a></li>
+</ul>
+
+</div>
+
+
+    <div class="button">
+    
+      <a href="fram.html" class="btn">View Data </a>
+      <a href="lock.html" class="btn">Data lock </a>
+    </div>
+    
+    
+      </header>
+    </body>
+    </html>
