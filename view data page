@@ -1,0 +1,34 @@
+<html> 
+    <head>
+        <tittle></tittle>
+        <Style>
+            body{
+                background :-webkit-linear-gradient(left,blue,skyblue);  
+        
+            }
+        </Style>
+    </head>
+<body>
+<table bgcolor="black" width=100%" height="40">
+    <tr>
+        <td align="right"><font color="white" size="7"><marquee>DATA  LOCK</marquee></td>
+    </tr>
+
+</table>
+<table width="100%" border="0" height="180" cellspacing="15">
+  zc
+    <tr> 
+<td width="20%" bgcolor="red" rowspan="2"><font color="white" size="7"><center>Images</center></td>
+<td width="20%" bgcolor="red"rowspan="2"><font color="white" size="7"> <center>Videos</center></td>
+<td width="20%" bgcolor="red"rowspan="2"><font color="white" size="7"> <center>Files</center></td>
+<td width="20%" bgcolor="red" rowspan="2"><font color="white" size="7"> <center>Document</center></td>
+</tr>
+</table>
+<table  width="20%" border="0" height="100" cellspacing="15">
+<tr>
+   <td width="25%"  bgcolor="green" rowspan="5"><font color="white" size="7"><center>logout</center></td>
+ 
+</tr>
+</table>
+</body>
+</html>
